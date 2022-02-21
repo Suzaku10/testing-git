@@ -8,6 +8,7 @@ class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
   // test comment
+  //git_test
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
